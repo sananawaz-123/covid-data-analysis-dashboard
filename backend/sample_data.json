@@ -1,0 +1,39 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "cases": 3456789,
+      "recovered": 3300000,
+      "deaths": 50000,
+      "active": 107689
+    },
+    {
+      "country": "USA",
+      "cases": 4567890,
+      "recovered": 4400000,
+      "deaths": 120000,
+      "active": 444890
+    },
+    {
+      "country": "Brazil",
+      "cases": 2123456,
+      "recovered": 2000000,
+      "deaths": 60000,
+      "active": 62456
+    },
+    {
+      "country": "UK",
+      "cases": 123456,
+      "recovered": 120000,
+      "deaths": 2000,
+      "active": 1456
+    },
+    {
+      "country": "Japan",
+      "cases": 98765,
+      "recovered": 95000,
+      "deaths": 1200,
+      "active": 565
+    }
+  ]
+}
